@@ -1,8 +1,6 @@
 State Street Challenge, Christopher King
 Uses React-router and react-table.
-fetchTransactions is a single redux action to pull the data using fetch
-data.json was placed in public 
-Todos: Enable multi filtering, Cleanup the page layout (maybe use FlexBox or bring in materials ui or something)
+fetchTransactions is a single redux action to pull the data.json using fetch
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
