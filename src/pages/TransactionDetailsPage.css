@@ -1,0 +1,10 @@
+.accountDetails {
+  width: 50rem;
+  max-width: 90%;
+  margin: 2rem auto;
+}
+
+.accountDetails p {
+  text-align: left;
+  padding-left: 2rem;
+}
